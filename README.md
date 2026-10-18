@@ -73,7 +73,7 @@ Source: `AdventureWorks Product Lookup.csv`
    4. Select the new column.
    5. Navigate to **Transform → Extract → Text Before Delimiter**.
    6. Configure the delimiter according to the source SKU format.
-   7. Open the applied step settings and configure the number of delimiters to `2` under Advanced, if supported by the selected operation.
+   7. Open the applied step settings and configure the number of delimiters to `1` under Advanced, if supported by the selected operation.
    8. Validate the result against sample SKU values.
 5. Replace Product Style:
    1. Select `Product Style`.
